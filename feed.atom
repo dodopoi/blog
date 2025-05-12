@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
       xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title>过客
+  <title>果壳中的宇宙
   </title>
   <link href="https://guoke.co/" rel="alternate" />
   
     <link href="https://guoke.co/feed.atom" rel="self" type="application/atom&#43;xml" />
   
   <id>https://guoke.co/</id>
-  <updated>2025-05-12T20:11:51&#43;08:00</updated>
+  <updated>2025-05-12T20:55:11&#43;08:00</updated>
   <author>
     <name>dodopoi</name>
   </author>

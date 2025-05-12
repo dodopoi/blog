@@ -4,14 +4,14 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>过客</title>
+    <title>果壳中的宇宙</title>
     <link>https://guoke.co/</link>
     <description> | Note: This RSS feed is deprecated. Please use the Atom feed at https://guoke.co/feed.atom for future updates.</description>
     <language>zh-CN</language>
     <managingEditor>dodopoi</managingEditor>
     <webMaster>dodopoi</webMaster>
     <copyright></copyright>
-    <lastBuildDate>Mon, 12 May 2025 20:11:51 &#43;0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 20:55:11 &#43;0800</lastBuildDate>
     <category>Blog</category>
     <generator>Hugo</generator>  <atom:link href="https://guoke.co/index.xml" rel="self" type="application/rss+xml" /> <atom:link href="https://guoke.co/feed.atom" rel="alternate" type="application/atom+xml" /><item>
       <title>暂停营业</title>
